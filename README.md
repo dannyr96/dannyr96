@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+learning to program. 
 <!--
 **dannyr96/dannyr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
